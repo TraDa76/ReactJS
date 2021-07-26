@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Huỳnh Minh Trí
+          Learn React Huỳnh Minh Trí 1997
         </a>
       </header>
     </div>
