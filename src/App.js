@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Huỳnh Minh Trí 1997 in Ho Chi Minh City
+          Learn React Huỳnh Minh Trí 1997 in Binh Tan District, Ho Chi Minh City
         </a>
       </header>
     </div>
